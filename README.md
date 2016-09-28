@@ -21,13 +21,6 @@ _A php application that takes a word and a string of words and returns the numbe
 
 ## Specs
 
-* _Behavior 1: If user does not input a word output a message_
-  * _Input 1: ""_
-  * _Output: "Hey dawg, you forgot to input a word."_
-
-* _Behavior 2: If user does not input a sentence output a message_
-  * _Input 2: ""_
-  * _Output: "Hey dawg, you forgot to write a sentence."_
 
 * _Behavior 3: Return number of times a word appears in a given sentence_
   * _Input 1: "Duck"_
@@ -36,7 +29,7 @@ _A php application that takes a word and a string of words and returns the numbe
 
 ## Known Bugs
 
-_Find all the bugs and we'll make you a shareholder_
+_Find all the bugs and we'll make you a shareholder. Just playin. _
 
 ## Support and contact details
 
